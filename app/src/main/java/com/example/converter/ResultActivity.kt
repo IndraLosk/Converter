@@ -10,7 +10,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
 @Suppress("DEPRECATION")
-class ResultActivity : AppCompatActivity() {
+class ResultActivity : AppCompatActivity() {пше
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
